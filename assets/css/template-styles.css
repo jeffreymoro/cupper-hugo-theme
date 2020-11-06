@@ -68,7 +68,7 @@ p img {
 figure p img {
     margin: 0;
 }
-:focus:not([tabindex="-1"]),
+/*:focus:not([tabindex="-1"]),
 [data-expands]:focus svg,
 .patterns a:focus .text,
 [for="themer"] :focus + [aria-hidden] {
@@ -76,7 +76,7 @@ figure p img {
 }
 a {
   outline-offset: 2px;
-}
+}*/
 
 /* Katex math typesetting */
 .katex * {
