@@ -22,7 +22,7 @@
           >
             <use xlink:href="#bookmark"></use>
           </svg>
-          {{ .Title }}
+          {{ .Title | markdownify}}
         </a>
       </h2>
     </li>
