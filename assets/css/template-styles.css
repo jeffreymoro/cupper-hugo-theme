@@ -737,7 +737,7 @@ li > svg {
     margin-right: 0.25em;
 }
 h1 svg {
-  margin-right: 0;
+  /*margin-right: 0;*/
   width: 0.85em;
   height: 0.85em;
 }
